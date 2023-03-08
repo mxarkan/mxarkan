@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mxarkan
 - 👀 I’m interested in ... ( Computer Science , Programming , Graphic Desgin and Physics )
-- 🌱 I’m currently learning ... ( Computer Science )
+- 🌱 I’m currently learning ... ( Computer Science & Software Enigneering )
 - 💞️ I’m looking to collaborate on ... ( Microsoft )
 - 📫 How to reach me ... ( Telegram : @mxarkan )
 
